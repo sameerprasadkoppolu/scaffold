@@ -1,4 +1,4 @@
-name: Python CI Steps Github Actions
+name: Python 3.9 CI Steps Github Actions - Azure
 
 on: [push]
 
